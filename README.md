@@ -1,1 +1,1 @@
-# sric-neurips-2026
+# stric-neurips-2026
